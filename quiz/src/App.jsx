@@ -38,7 +38,7 @@ function App() {
       })
     
     }
-
+       //changed and edited
     getQuestions();
 
 
