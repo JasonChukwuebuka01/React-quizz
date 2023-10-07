@@ -32,7 +32,7 @@ function App() {
               selected: null,
               checked:false
            });
-
+//hhh
            setQuestion(quest)
 
       })
